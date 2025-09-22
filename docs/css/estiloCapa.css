@@ -63,9 +63,7 @@ body{
     line-height: 45px;
     color: #3d566e;
     font-weight: bold;
-    margin-top: -25px;
     
-
 }
 .escrita h2,h1{
    
@@ -92,10 +90,8 @@ body{
    
 }
 #botao-cabecalho:hover{
-    text-decoration: none;
     background: #1292dc;
     color: white;
-    font-size: 36px;
 }
 
 /*seção 1 - funcionalidades*/
@@ -115,7 +111,6 @@ section h2{
     display:inline-block;
     width: 200px;
     height: 200px;
-    text-align: center;
     background: #1292dc;
     border-radius: 550px;
     margin-left: 15%; 
