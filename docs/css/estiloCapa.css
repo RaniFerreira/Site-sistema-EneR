@@ -194,7 +194,6 @@ h3{
     color: #3d566e;
     font-size: 100px;
     font-weight: bold;
-
 }
 .sinal3{
     color: #fc9700;
@@ -205,7 +204,6 @@ h3{
 
 .contato{
     flex: 40%;
-
 }
 
 /*div contato*/
@@ -254,8 +252,6 @@ input{
     background: #fc9700;
 
 }
-
-
 /*rodape*/
 
 .rodape{
