@@ -4,7 +4,6 @@
 
 body{
     margin: 0;
-
 }
 
 /*estilização do menu*/
@@ -21,7 +20,7 @@ body{
     margin-bottom: -0.5%;
 }
 .menu{
-    flex: 80%;
+    flex: 60%;
     text-align: right;
     margin-right: 10%;
     
@@ -113,13 +112,14 @@ section h2{
     height: 200px;
     background: #1292dc;
     border-radius: 550px;
-    margin-left: 15%; 
+    margin-left: 15%;
 }
+
 h3{
     display: inline-block;
     font-size: 26px;
-    margin-left: 205px;
-    color: #3d566e;
+    margin-left: 13.5%;
+    color: #3d566e; 
 }
 
 /*Estilização Sessão sobre*/
@@ -149,7 +149,6 @@ h3{
     flex: 40%;
     margin-left: 10%;
     
-   
 
 }
 
@@ -173,7 +172,6 @@ h3{
     font-size: 46px;
     font-weight: bold;
 
-
 }
 
 .sinais h4{
@@ -184,11 +182,7 @@ h3{
 .sinal1{
     color: #79a1b8;
     font-size: 100px;
-    font-weight: bold;
-   
-
-    
-    
+    font-weight: bold;  
 }
 .sinal2{
     color: #3d566e;
@@ -197,21 +191,16 @@ h3{
 }
 .sinal3{
     color: #fc9700;
-    
     font-size: 100px;
     font-weight: bold;
-}
-
-.contato{
-    flex: 40%;
 }
 
 /*div contato*/
 
 .contato{
     flex: 40%;
-    text-align: justify;
     margin-bottom: 5%;
+    margin-right: 10%;
 }
 
 /*formulario*/
@@ -222,12 +211,10 @@ h3{
     width: 400px;
     margin-left: 25%;
     background: #f5f5f5;
-
 }
 
 label{
     font-size: 25px;
-    padding-right: 15px;
     margin-left: 15%;
 
 }
@@ -252,6 +239,7 @@ input{
     background: #fc9700;
 
 }
+
 /*rodape*/
 
 .rodape{
